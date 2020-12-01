@@ -11,6 +11,10 @@ My Solution to the machine learning hackathon Are your Employees Burn out?
 
 <b>2nd rank</b> on public leaderboard
 
+<b>2nd rank</b> on private leaderboard
+
+Leaderboard link https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-burnout-rate/leaderboard/predict-the-employee-burn-out-rate-7-6340b4e3/
+
 The two models used for submission are Catboost Regressor and Lightgbm with the ratio 2:1 for making ensemble submission.
 
 The features used are-
